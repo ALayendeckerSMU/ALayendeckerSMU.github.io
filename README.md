@@ -20,11 +20,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/60634023/188000343-77a1dbef-e924-4249-bc1a-eb1ac1cc2eea.jpg)" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
